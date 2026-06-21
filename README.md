@@ -1,4 +1,4 @@
-##ZenteiQ ML Engineer Assignment: MaxText LLM Training
+#ZenteiQ ML Engineer Assignment: MaxText LLM Training
 
 This repository contains the configuration, execution logic, and benchmarking analysis for training Large Language Models (LLMs) using Google's MaxText framework across CPU, T4 GPU, and TPU v2 architectures.
 
