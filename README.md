@@ -1,5 +1,7 @@
 ZenteiQ ML Engineer Assignment: MaxText LLM Training
 
+The execution and progress were made with help of gpt models, since I was new to the applications and errors. I have gone through many new topics, theory and have tried executing various softwares and applications. Thank you for the opportunity. 
+
 This repository contains the configuration, execution logic, and benchmarking analysis for training Large Language Models (LLMs) using Google's MaxText framework across CPU, T4 GPU, and TPU v2 architectures.
 
 The project explores data input pipelines, dense architecture scaling (Qwen), and sparse Mixture of Experts (MoE) scaling (DeepSeek), alongside hardware-specific compiler debugging in Google Colab.
